@@ -57,7 +57,7 @@ var travelReport = (function () {
 		* Output the values read from form
 		* For String interpolation I use Template String structure which came with ECMAScript 6
 		* */
-		console.log(`First Name: ${firstNameText}\nLast Name: ${lastNameText}\nE-mail: ${emailText}\nComments: ${commentsText}`);
+		console.log('First Name: ' + firstNameText + '\nLast Name: ' + lastNameText + '\nE-mail: ' + emailText + '\nComments: ' + commentsText);
 	});
 
 })();

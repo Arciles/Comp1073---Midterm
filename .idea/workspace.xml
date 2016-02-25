@@ -38,8 +38,8 @@
       <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Scripts/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6810631">
-              <caret line="54" column="0" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.627907">
+              <caret line="51" column="42" selection-start-line="51" selection-start-column="42" selection-end-line="51" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -205,7 +205,13 @@
       <option name="project" value="LOCAL" />
       <updated>1456410755306</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Project is finished with all the functionality.">
+      <created>1456411967762</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1456411967763</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -239,7 +245,8 @@
     <MESSAGE value="Variables created and initialized. This babies are ready to go!" />
     <MESSAGE value="Texts are inserted to the paragraph tags and functionality checked." />
     <MESSAGE value="New Variables created for form inputs." />
-    <option name="LAST_COMMIT_MESSAGE" value="New Variables created for form inputs." />
+    <MESSAGE value="Project is finished with all the functionality." />
+    <option name="LAST_COMMIT_MESSAGE" value="Project is finished with all the functionality." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -264,8 +271,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Scripts/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6810631">
-          <caret line="54" column="0" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.627907">
+          <caret line="51" column="42" selection-start-line="51" selection-start-column="42" selection-end-line="51" selection-end-column="42" />
           <folding />
         </state>
       </provider>
