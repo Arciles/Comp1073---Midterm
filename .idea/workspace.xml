@@ -4,6 +4,7 @@
     <list default="true" id="3fc97ad0-45bd-4ded-9160-e153ce53e24b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scripts/app.js" afterPath="$PROJECT_DIR$/Scripts/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="Comp1073 - Midterm.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,8 +29,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-30.64">
-              <caret line="90" column="70" selection-start-line="90" selection-start-column="63" selection-end-line="90" selection-end-column="70" />
+            <state vertical-scroll-proportion="-29.36">
+              <caret line="165" column="80" selection-start-line="165" selection-start-column="72" selection-end-line="165" selection-end-column="80" />
               <folding />
             </state>
           </provider>
@@ -38,8 +39,8 @@
       <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Scripts/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.58471763">
-              <caret line="33" column="57" selection-start-line="33" selection-start-column="57" selection-end-line="33" selection-end-column="57" />
+            <state vertical-scroll-proportion="0.7619048">
+              <caret line="43" column="4" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -54,6 +55,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/paragraphs.txt" />
+        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/Scripts/app.js" />
       </list>
     </option>
@@ -128,20 +130,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Comp1073 - Midterm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Comp1073 - Midterm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -192,7 +180,13 @@
       <option name="project" value="LOCAL" />
       <updated>1456409722272</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Texts are inserted to the paragraph tags and functionality checked.">
+      <created>1456410334350</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1456410334350</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -224,7 +218,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Variables created and initialized. This babies are ready to go!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Variables created and initialized. This babies are ready to go!" />
+    <MESSAGE value="Texts are inserted to the paragraph tags and functionality checked." />
+    <option name="LAST_COMMIT_MESSAGE" value="Texts are inserted to the paragraph tags and functionality checked." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -241,16 +236,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-30.64">
-          <caret line="90" column="70" selection-start-line="90" selection-start-column="63" selection-end-line="90" selection-end-column="70" />
+        <state vertical-scroll-proportion="-29.36">
+          <caret line="165" column="80" selection-start-line="165" selection-start-column="72" selection-end-line="165" selection-end-column="80" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Scripts/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.58471763">
-          <caret line="33" column="57" selection-start-line="33" selection-start-column="57" selection-end-line="33" selection-end-column="57" />
+        <state vertical-scroll-proportion="0.7619048">
+          <caret line="43" column="4" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="4" />
           <folding />
         </state>
       </provider>
