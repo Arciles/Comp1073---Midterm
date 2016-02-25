@@ -22,6 +22,7 @@ var travelReport = (function () {
 	var gavdos ="Near the more well-known Crete, Gavdos is the most southern island in Greece — and the most southern spot in Europe discounting the Canaries. Only accessible by ferry, the remote island has only about 50 permanent residents, and can feel like your private playground. Local legend has it that the island was the home of goddess Calypso, who kept Odysseus prisoner here. Today, a favorite tourist activity is to visit the spot believed to be her cave. Be warned, you won't find any luxury hotels here. While the romantically under-developed, super laid back island has a number of rooms for rent, those are limited, as the real draw here for many is the free, seaside camping.";
 
 	/* Creating variables for form elements and submit button */
+
 	var firstName = document.getElementById('firstName');
 	var lastName = document.getElementById('lastName');
 	var email = document.getElementById('email');
@@ -40,8 +41,24 @@ var travelReport = (function () {
 	document.getElementById('Ithaca').innerHTML = ithaca;
 	document.getElementById('Gavdos').innerHTML = gavdos;
 
-	/*Create and event listener for submit button*/
 
+	/* Creating Event Listener form submit button and reading the values from input fields */
+	btnSubmit.addEventListener('click', function(event) {
+		/* Preventing default behavior */
+		event.preventDefault();
+
+		/* Reading values from HTML */
+		var firstNameText = firstName.value;
+		var lastNameText = lastName.value;
+		var emailText = email.value;
+		var commentsText = comments.value;
+
+		/*
+		* Output the values read from form
+		* For String interpolation I use Template String structure which came with ECMAScript 6
+		* */
+		console.log(`First Name: ${firstNameText}\nLast Name: ${lastNameText}\nE-mail: ${emailText}\nComments: ${commentsText}`);
+	});
 
 })();
 
